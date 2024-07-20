@@ -1,0 +1,134 @@
+# Angular specific files
+angular/node_modules/
+angular/dist/
+angular/tmp/
+angular/out-tsc/
+angular/coverage/
+angular/.angular/cache
+angular/17.2.1/
+
+# Compiled files
+angular/*.js
+angular/*.js.map
+angular/*.css
+angular/*.css.map
+
+# IDE files
+angular/.idea/
+angular/.vscode/
+angular/*.suo
+angular/*.ntvs*
+angular/*.njsproj
+angular/*.sln
+angular/*.swp
+
+# Logs and temporary files
+angular/npm-debug.log*
+angular/yarn-debug.log*
+angular/yarn-error.log*
+
+# Environment files
+angular/.env
+net/.env
+
+# Compiled object files
+net/*.o
+net/*.a
+net/*.lo
+net/*.la
+net/*.al
+net/*.dll
+net/*.exe
+net/*.so
+net/*.dylib
+net/*.lib
+
+# Packages
+net/*.pkg
+net/*.app
+net/*.deb
+net/*.rpm
+net/*.dSYM/
+
+# Compiled source files
+net/*.com
+net/*.class
+net/*.jar
+net/*.pyc
+net/*.pyo
+net/*.pyd
+
+# Logs and databases
+net/*.log
+net/*.sql
+net/*.sqlite
+
+# OS-generated files
+net/.DS_Store
+net/Thumbs.db
+
+# Visual Studio files
+net/.vscode/
+net/.vs/
+net/*.csproj.user
+net/*.csproj.userosscache
+net/*.csproj.userosscache2
+net/*.suo
+net/*.user
+net/*.userosscache
+net/*.userosscache2
+
+# Visual Studio Code
+net/.vscode/
+
+# Rider
+net/.idea/
+net/.idea_modules/
+
+# ASP.NET Scaffolding
+net/ScaffoldingReadMe.txt
+
+# DotNet Core
+net/project.lock.json
+net/project.fragment.lock.json
+net/artifacts/
+net/bin/
+net/obj/
+net/*.swp
+
+# NuGet
+net/*.nupkg
+net/*.snupkg
+net/.nuget/
+net/packages/
+# Uncomment if necessary however generally it will be regenerated when needed
+# project.lock.json
+# project.fragment.lock.json
+
+# Windows image file caches
+net/Thumbs.db
+net/ehthumbs.db
+
+# Folder config file
+net/Desktop.ini
+
+# Recycle Bin used on file shares
+net/$RECYCLE.BIN/
+
+# VS Code directories
+net/.vscode/
+
+# User-specific files
+net/*.rsuser
+net/*.suo
+net/*.user
+net/*.userosscache
+net/*.sln.docstates
+
+# Visual Studio
+net/.vs/
+
+# ASP.NET
+net/node_modules/
+net/npm-debug.log
+net/yarn.lock
